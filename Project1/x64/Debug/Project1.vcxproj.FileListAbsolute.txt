@@ -1,0 +1,6 @@
+C:\Users\momen\source\repos\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\momen\source\repos\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\momen\source\repos\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\momen\source\repos\Project1\Project1\x64\Debug\Project1.chem_form.resources
+C:\Users\momen\source\repos\Project1\Project1\x64\Debug\Project1.customersform.resources
+C:\Users\momen\source\repos\Project1\Project1\x64\Debug\Project1.suppliersform.resources

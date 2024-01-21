@@ -1,0 +1,11 @@
+﻿  chem_form.cpp
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(599,9): error C2065: 'checkBox1': undeclared identifier
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(693,9): error C2065: 'checkBox1': undeclared identifier
+  customersform.cpp
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(599,9): error C2065: 'checkBox1': undeclared identifier
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(693,9): error C2065: 'checkBox1': undeclared identifier
+  main_form.cpp
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(599,9): error C2065: 'checkBox1': undeclared identifier
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(693,9): error C2065: 'checkBox1': undeclared identifier
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(13,32): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...

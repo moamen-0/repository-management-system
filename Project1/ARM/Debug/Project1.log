@@ -1,0 +1,167 @@
+﻿  chem_form.cpp
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(6,24): error C2871: 'System': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(7,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(7,40): error C2871: 'ComponentModel': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(8,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(8,37): error C2871: 'Collections': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(9,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(9,40): error C2871: 'Forms': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(10,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(10,30): error C2871: 'Data': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(11,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(11,33): error C2871: 'Drawing': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(12,21): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(12,44): error C2871: 'SqlClient': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(17,2): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(17,35): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(17,42): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(18,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(18,2): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(5,24): error C2871: 'System': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(6,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(6,40): error C2871: 'ComponentModel': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(7,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(7,37): error C2871: 'Collections': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(8,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(8,40): error C2871: 'Forms': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(9,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(9,30): error C2871: 'Data': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(10,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(10,33): error C2871: 'Drawing': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(11,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(11,41): error C2871: 'SqlClient': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(15,2): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(15,35): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(15,42): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(16,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(16,2): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(7,24): error C2871: 'System': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(8,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(8,40): error C2871: 'ComponentModel': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(9,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(9,37): error C2871: 'Collections': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(10,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(10,40): error C2871: 'Forms': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(11,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(11,30): error C2871: 'Data': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(12,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(12,33): error C2871: 'Drawing': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(13,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(13,41): error C2871: 'SqlClient': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(18,2): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(18,31): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(18,38): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(19,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(19,2): error C2447: '{': missing function header (old-style formal list?)
+  customersform.cpp
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(6,24): error C2871: 'System': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(7,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(7,40): error C2871: 'ComponentModel': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(8,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(8,37): error C2871: 'Collections': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(9,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(9,40): error C2871: 'Forms': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(10,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(10,30): error C2871: 'Data': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(11,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(11,33): error C2871: 'Drawing': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(12,21): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(12,44): error C2871: 'SqlClient': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(17,2): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(17,35): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(17,42): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(18,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(18,2): error C2447: '{': missing function header (old-style formal list?)
+  main_form.cpp
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(6,24): error C2871: 'System': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(7,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(7,40): error C2871: 'ComponentModel': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(8,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(8,37): error C2871: 'Collections': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(9,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(9,40): error C2871: 'Forms': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(10,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(10,30): error C2871: 'Data': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(11,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(11,33): error C2871: 'Drawing': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(12,21): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(12,44): error C2871: 'SqlClient': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(17,2): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(17,35): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(17,42): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(18,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\momen\source\repos\Project1\Project1\customersform.h(18,2): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(5,24): error C2871: 'System': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(6,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(6,40): error C2871: 'ComponentModel': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(7,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(7,37): error C2871: 'Collections': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(8,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(8,40): error C2871: 'Forms': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(9,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(9,30): error C2871: 'Data': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(10,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(10,33): error C2871: 'Drawing': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(11,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(11,41): error C2871: 'SqlClient': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(15,2): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(15,35): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(15,42): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(16,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(16,2): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(7,24): error C2871: 'System': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(8,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(8,40): error C2871: 'ComponentModel': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(9,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(9,37): error C2871: 'Collections': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(10,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(10,40): error C2871: 'Forms': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(11,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(11,30): error C2871: 'Data': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(12,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(12,33): error C2871: 'Drawing': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(13,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(13,41): error C2871: 'SqlClient': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(18,2): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(18,31): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(18,38): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(19,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\momen\source\repos\Project1\Project1\chem_form.h(19,2): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(4,23): error C2871: 'System': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(5,17): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(5,39): error C2871: 'Forms': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(6,17): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(6,39): error C2871: 'ComponentModel': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(7,17): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(7,36): error C2871: 'Collections': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(8,17): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(8,32): error C2871: 'Drawing': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(9,17): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(9,29): error C2871: 'Data': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(11,2): warning C4467: usage of ATL attributes is deprecated
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(11,2): error C2337: 'STAThread': attribute not found
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(13,11): error C2065: 'array': undeclared identifier
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(13,17): error C2065: 'String': undeclared identifier
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(13,24): error C2059: syntax error: '>'
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(13,32): error C2143: syntax error: missing ';' before '{'
+C:\Users\momen\source\repos\Project1\Project1\main_form.cpp(13,32): error C2447: '{': missing function header (old-style formal list?)
+  suppliersform.cpp
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(5,24): error C2871: 'System': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(6,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(6,40): error C2871: 'ComponentModel': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(7,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(7,37): error C2871: 'Collections': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(8,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(8,40): error C2871: 'Forms': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(9,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(9,30): error C2871: 'Data': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(10,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(10,33): error C2871: 'Drawing': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(11,18): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(11,41): error C2871: 'SqlClient': a namespace with this name does not exist
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(15,2): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(15,35): error C2059: syntax error: 'public'
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(15,42): error C2653: 'System': is not a class or namespace name
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(16,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\momen\source\repos\Project1\Project1\suppliersform.h(16,2): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...
